@@ -1,5 +1,8 @@
 ## Quickstart
 
+sync 1
+
+
 Prerequisites:
 
 ```
