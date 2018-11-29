@@ -1,6 +1,7 @@
 ## Quickstart
 
 sync 2
+sync 3
 
 
 Prerequisites:
