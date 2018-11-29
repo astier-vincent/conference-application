@@ -1,6 +1,6 @@
 ## Quickstart
 
-sync 1
+sync 2
 
 
 Prerequisites:
