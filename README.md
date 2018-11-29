@@ -4,6 +4,7 @@ sync 2
 sync 3
 sync 4
 sync 5
+syn 6
 
 
 Prerequisites:
